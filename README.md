@@ -269,6 +269,11 @@ Además de las competencias técnicas, mi experiencia académica, profesional, d
 
 Además de mi formación tecnológica, cuento con experiencia en diferentes ámbitos relacionados con la formación y el deporte.
 
+### 👨‍🏫 Docencia
+
+También tengo experiencia como **profesor de Matemáticas y Física** para alumnos de **ESO y Bachillerato**, ayudándoles a comprender los contenidos, resolver dudas y preparar exámenes.
+
+
 ### 🧤 Entrenador de porteros
 
 Compagino mi formación tecnológica con mi actividad como **entrenador de porteros de fútbol**.
@@ -282,11 +287,8 @@ Esta experiencia me ha permitido trabajar especialmente capacidades como:
 - Toma de decisiones
 - Responsabilidad
 
-Cuento además con formación **UEFA C**.
+Cuento además con formación **UEFA C | Especialista en Entrenamiento de Porteros – Goalkeeper Nacional C**.
 
-### 👨‍🏫 Docencia
-
-También tengo experiencia como **profesor particular**, lo que me ha ayudado a desarrollar la capacidad de explicar conceptos de forma clara y adaptar la comunicación a diferentes personas y niveles.
 
 ### 🏕️ Monitor de Ocio y Tiempo Libre
 
@@ -362,9 +364,9 @@ Cada repositorio incluirá documentación sobre el proyecto, tecnologías utiliz
 Estoy abierto a oportunidades profesionales y prácticas relacionadas con **Ingeniería Informática, Ciberseguridad, Sistemas y Seguridad IT**.
 
 📍 Ourense, Galicia, España  
-💼 LinkedIn: `Añadir enlace a LinkedIn`  
-💻 GitHub: `Añadir enlace a GitHub`  
-📧 Email: `Añadir email profesional`
+💼 LinkedIn: `https://www.linkedin.com/in/lucas-gonzalez-torres/`  
+💻 GitHub: `https://github.com/lugontor`  
+📧 Email: `lugontor@gmail.com`
 
 ---
 
