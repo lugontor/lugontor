@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hola, soy Lucas González Torres
+
 
 ### 💻 Ingeniero Informático | 🔐 Máster en Ciberseguridad
 
