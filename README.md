@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ### 💻 Ingeniero Informático | 🔐 Máster en Ciberseguridad
 
-Soy **Graduado en Ingeniería Informática por la Universidade de Vigo** y actualmente estoy cursando el **Máster Universitario en Ciberseguridad de la UNED**.
+Soy **Graduado en Ingeniería Informática por la Universidade de Vigo** con formación especializada **Máster Universitario en Ciberseguridad de la UNED**.
 
 Mi interés profesional está especialmente orientado hacia la **ciberseguridad, seguridad de sistemas, redes y pentesting**, áreas en las que continúo ampliando mis conocimientos mediante formación, certificaciones y laboratorios prácticos.
 
