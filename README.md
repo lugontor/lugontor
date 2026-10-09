@@ -47,6 +47,29 @@ También estoy realizando formación práctica y preparándome para diferentes *
 
 Mi objetivo con este GitHub es ir documentando los proyectos, laboratorios y conocimientos que vaya adquiriendo.
 
+
+## 🏅 Certificaciones y formación práctica
+
+### Coursera
+
+- **Certified in Cybersecurity Specialization** — ISC2 (5 cursos): [verificar especialización](https://coursera.org/verify/specialization/MFHIYS1DD30O)
+  - [Security Principles](https://coursera.org/verify/F0A0FVFRXIWG)
+  - [Incident Response, BC, and DR Concepts](https://coursera.org/verify/Z9R90Q9BN32N)
+  - [Access Control Concepts](https://coursera.org/verify/HC7TAVU7IVA9)
+  - [Network Security](https://coursera.org/verify/9TJG1WMKMI34)
+  - [Security Operations](https://coursera.org/verify/TVC4VHBSYNI9)
+- **Penetration Testing, Threat Hunting, and Cryptography** — IBM: [verificar certificado](https://coursera.org/verify/4AQS6ZGA6ATQ)
+- **Foundations of Cybersecurity** — Google: [verificar certificado](https://coursera.org/verify/J5QGSCR0WTDV)
+- **Play It Safe: Manage Security Risks** — Google: [verificar certificado](https://coursera.org/verify/RTQBDGEHGH4R)
+- **Introduction to Software Development** — Amazon: [verificar certificado](https://coursera.org/verify/ZFFZ3BEEQOZN)
+- **Curso de Inteligencia Artificial desde cero**
+
+### Laboratorios y aprendizaje práctico
+
+- **TryHackMe:** ruta formativa *Jr Penetration Tester* y laboratorios prácticos de *blue team*, ataque y defensa de servicios, reconocimiento, enumeración, explotación y escalada de privilegios.
+- **PortSwigger Web Security Academy:** laboratorios de seguridad web, incluyendo pruebas y mitigación de vulnerabilidades en entornos autorizados.
+- Todo el trabajo práctico se realiza exclusivamente en plataformas y entornos controlados y autorizados.
+
 ---
 
 # 🎓 Formación
