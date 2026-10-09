@@ -64,11 +64,34 @@ Mi objetivo con este GitHub es ir documentando los proyectos, laboratorios y con
 - **Introduction to Software Development** — Amazon: [verificar certificado](https://coursera.org/verify/ZFFZ3BEEQOZN)
 - **Curso de Inteligencia Artificial desde cero**
 
-### Laboratorios y aprendizaje práctico
+### 🧪 Laboratorios y aprendizaje práctico
 
-- **TryHackMe:** ruta formativa *Jr Penetration Tester* y laboratorios prácticos de *blue team*, ataque y defensa de servicios, reconocimiento, enumeración, explotación y escalada de privilegios.
-- **PortSwigger Web Security Academy:** laboratorios de seguridad web, incluyendo pruebas y mitigación de vulnerabilidades en entornos autorizados.
-- Todo el trabajo práctico se realiza exclusivamente en plataformas y entornos controlados y autorizados.
+La formación se complementa con laboratorios guiados y retos técnicos en plataformas autorizadas. En cada práctica se sigue una metodología orientada a comprender tanto la perspectiva ofensiva como la defensiva: identificar la superficie de ataque, recopilar evidencias, validar el impacto y documentar medidas de mitigación.
+
+#### 🟩 TryHackMe — Jr Penetration Tester y laboratorios de ciberseguridad
+
+Ruta formativa y prácticas centradas en las fases habituales de una prueba de penetración en entornos controlados.
+
+| Área | Trabajo realizado | Conocimientos aplicados |
+| --- | --- | --- |
+| 🔎 Reconocimiento y enumeración | Identificación de hosts, servicios expuestos, puertos, versiones y recursos accesibles. | Nmap, análisis de servicios, DNS, HTTP, SMB y enumeración inicial. |
+| 🎯 Explotación | Análisis de vectores de ataque y validación de vulnerabilidades en máquinas de laboratorio. | Metodología de pentesting, búsqueda de vulnerabilidades y explotación controlada. |
+| ⬆️ Escalada de privilegios | Revisión de configuraciones, permisos y servicios para comprender posibles rutas de elevación. | Linux, permisos, procesos, servicios y hardening. |
+| 🛡️ Blue Team | Análisis de actividad sospechosa, eventos y evidencias para detectar y responder a incidentes. | Monitorización, análisis de logs, respuesta a incidentes y defensa de sistemas. |
+| 🌐 Ataque y defensa de servicios | Estudio de servicios de red desde la exposición inicial hasta su protección. | Seguridad de red, configuración segura y reducción de superficie de ataque. |
+
+#### 🟧 PortSwigger Web Security Academy — Seguridad web
+
+Laboratorios prácticos enfocados en descubrir, comprender y mitigar vulnerabilidades en aplicaciones web. Las prácticas se realizan en aplicaciones diseñadas específicamente para este aprendizaje.
+
+| Área | Qué se trabaja | Enfoque de seguridad |
+| --- | --- | --- |
+| 🌍 Análisis de aplicaciones web | Interceptación y modificación de peticiones y respuestas HTTP. | Comprender el flujo cliente-servidor y localizar puntos de entrada. |
+| 🔐 Autenticación y control de acceso | Evaluación de mecanismos de sesión, autorización y restricciones de acceso. | Identificar fallos de control de acceso y proponer medidas de protección. |
+| 🧩 Validación de entradas | Pruebas sobre datos proporcionados por el usuario y su tratamiento por la aplicación. | Prevención de vulnerabilidades mediante validación, codificación y configuración segura. |
+| 🕵️ Pruebas de seguridad | Revisión sistemática de funcionalidades y comportamiento de la aplicación. | Metodología de pruebas web y documentación de hallazgos. |
+
+> **Entorno ético y autorizado:** todos los ejercicios descritos se realizan únicamente en laboratorios, retos y aplicaciones expresamente habilitados para formación y pruebas de seguridad.
 
 ---
 
