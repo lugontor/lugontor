@@ -286,11 +286,22 @@ Tools
 
 # 💼 Experiencia
 
-## 🖥️ Prácticas – COASA / Aernnova
+## 🖥️ Prácticas universitarias — COASA / Aernnova
 
-Experiencia profesional desarrollada durante mis prácticas universitarias en **COASA**, perteneciente al entorno industrial de **Aernnova**, en San Cibrao das Viñas, Ourense.
+**Componentes Aeronáuticos COASA, S.A. · Grupo Aernnova**  
+*Parque Tecnológico de Galicia · San Cibrao das Viñas, Ourense*
 
-Esta experiencia me permitió conocer un entorno profesional real y aplicar conocimientos adquiridos durante el Grado en Ingeniería Informática.
+Prácticas universitarias realizadas en un entorno industrial aeronáutico, aplicando conocimientos de Ingeniería Informática al apoyo de procesos internos y al tratamiento de la información.
+
+### Aportaciones y experiencia adquirida
+
+- Gestión, organización y tratamiento de datos para apoyar procesos internos de la empresa.
+- Colaboración con el área de Producción en tareas vinculadas a la información y a la operativa del entorno industrial.
+- Comprensión del papel de la calidad, disponibilidad y correcta gestión de los datos en el funcionamiento de una organización.
+- Aplicación de conocimientos académicos en un entorno profesional real, con foco en la resolución de problemas, la organización y el trabajo en equipo.
+- Adaptación a dinámicas, procesos y necesidades propias de una empresa del sector aeronáutico.
+
+**Competencias reforzadas:** gestión de datos, organización, resolución de problemas, trabajo en equipo y adaptación a entornos profesionales.
 
 ---
 
