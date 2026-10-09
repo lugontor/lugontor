@@ -305,6 +305,22 @@ Prácticas universitarias realizadas en un entorno industrial aeronáutico, apli
 
 ---
 
+## 👨‍🏫 Profesor particular de Matemáticas y Física
+
+Docencia individualizada para alumnado de **ESO y Bachillerato**, orientada a consolidar conocimientos, resolver dudas y preparar evaluaciones.
+
+### Responsabilidades
+
+- Explicación de contenidos de Matemáticas y Física adaptada al nivel y ritmo de cada estudiante.
+- Preparación de ejercicios, resolución de problemas y refuerzo de los contenidos con mayor dificultad.
+- Planificación de sesiones y seguimiento del progreso académico.
+- Preparación para exámenes mediante repaso estructurado y práctica guiada.
+- Desarrollo de habilidades de comunicación, organización y adaptación a diferentes necesidades de aprendizaje.
+
+**Competencias reforzadas:** comunicación clara, planificación, resolución de problemas, responsabilidad y acompañamiento formativo.
+
+---
+
 # 🧠 Competencias
 
 Además de las competencias técnicas, mi experiencia académica, profesional, docente y deportiva me ha permitido desarrollar:
